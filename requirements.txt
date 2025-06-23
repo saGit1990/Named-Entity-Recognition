@@ -12,3 +12,5 @@ setuptools
 wheel
 spaCy
 NLTK
+plotly
+dotenv
